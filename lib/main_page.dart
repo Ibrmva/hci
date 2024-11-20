@@ -6,7 +6,7 @@ import 'package:flutter_application_1/feature/presentation/signInPages/login_pag
 
 
 class MainPage extends StatelessWidget {
-  const MainPage({Key? key}) :super(key: key);
+  const MainPage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context){

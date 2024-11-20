@@ -14,7 +14,7 @@ import 'package:flutter_application_1/feature/presentation/components/sign_up_bt
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class LoginPage extends StatelessWidget {
-  LoginPage({Key? key}) :super(key: key);
+  LoginPage({Key? key}) : super(key: key);
 
   final _emailController = TextEditingController();
   final _passwordController = TextEditingController();
